@@ -1,15 +1,11 @@
-# app-ads.txt for lvadyal.github.io
-# Prepared 2026-10-18 for ironSource Ads only.
-# Before publishing: confirm 690217 is the ironSource Publisher ID in Account > API.
-# This number was supplied by the publisher; account ownership/type was not independently verified.
-# Add the official account-specific entries for Unity Ads or any other enabled networks separately.
-# Keep OWNERDOMAIN aligned with your publisher business/site domain and sellers.json information.
+# app-ads.txt for Tiles Road: Taxi Puzzle 3D
+# Updated 2026-10-18. ironSource publisher ID confirmed by the owner.
 OWNERDOMAIN=lvadyal.github.io
 
 # Direct ironSource Ads publisher account
 ironsrc.com, 690217, DIRECT
 
-# ironSource authorized resellers (official list retrieved 2026-10-18)
+# ironSource authorized resellers
 # Source: https://docs.unity.com/en-us/grow/programmatic/ironsource-exchange/app-ads-txt
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
